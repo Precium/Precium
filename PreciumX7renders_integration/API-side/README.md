@@ -28,8 +28,3 @@ API server using infura.io's api
 ### Have to make `envs.yaml` file before executing 
 ### Ethereum library needs gcc.
 - [tdm64-gcc for windows](http://tdm-gcc.tdragon.net/download)
-
-
-## Descript for envs.yaml's parameter 
-#### `ControllerKey` : Pre-authorized wallet. you can be used when you want to more user wallet(=user contract).
-#### `CommandContract` : Control tower for quiz system. This contract has to contain the function `makeWallet` and so on.
