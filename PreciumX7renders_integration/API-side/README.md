@@ -10,7 +10,7 @@ API server using infura.io's api
 - [using ropsten](https://ropsten.etherscan.io/) 
 - [using main-net](https://etherscan.io/)
 
-###  using infura.io's nodes. and we created an account by "ino@k-cent.com" 
+###  using infura.io's nodes. and we created an account by "ino@precium.io" 
 #### below link redirect to infura.io's page.
 - [infura Dashboard](https://infura.io/stats/91783f0ea6314a0fb122ed25e1fbd0ff)
 - [infura APIs](https://infura.io/docs/ethereum/json-rpc/)
