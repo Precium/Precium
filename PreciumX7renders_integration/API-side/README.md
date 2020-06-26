@@ -20,7 +20,7 @@ API server using infura.io's api
 | A described page for ethereum JSON-RPC
 
 ### if you have any problems. please feel free to contact with the person in charge.
-#### email : ino@k-cent.com / ino@precium.io 
+#### email : ino@precium.io 
 ----
 
 
