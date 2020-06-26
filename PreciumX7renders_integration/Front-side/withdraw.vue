@@ -171,7 +171,6 @@
       <img src="@/assets/down-arrow.svg" :class="{'arrow180':active}"/>
     </div>
     <vue-slide-up-down class="notice-content" :active="active">
-      <p>여기 내용 들어갈거임</p>
     </vue-slide-up-down>
     <span class="divider-block" />
   </div>
