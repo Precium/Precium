@@ -34,18 +34,8 @@ export default class withdrawRequest extends Vue {
 
   requestHistory = [
     {
-      pcm: 2000,
-      alias: '빗썸지갑',
-      date: '2019.08.01 14:44:02'
-    },
-    {
-      pcm: 1000,
-      alias: '코인원지갑',
-      date: '2019.08.01 14:44:02'
-    },
-    {
-      pcm: 3000,
-      alias: '프레시움지갑',
+      pcm: 0,
+      alias: 'Main Wallet',
       date: '2019.08.01 14:44:02'
     }
   ]
